@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array/Arrar_11/Arrary_11.iml" filepath="$PROJECT_DIR$/Array/Arrar_11/Arrary_11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Array_01/Array_01.iml" filepath="$PROJECT_DIR$/Array/Array_01/Array_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Array_02/Array_02.iml" filepath="$PROJECT_DIR$/Array/Array_02/Array_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Array_03/Array_03.iml" filepath="$PROJECT_DIR$/Array/Array_03/Array_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Array_04/Array_04.iml" filepath="$PROJECT_DIR$/Array/Array_04/Array_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Array_05/Array_05.iml" filepath="$PROJECT_DIR$/Array/Array_05/Array_05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Array_06/Array_06.iml" filepath="$PROJECT_DIR$/Array/Array_06/Array_06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Array_07/Array_07.iml" filepath="$PROJECT_DIR$/Array/Array_07/Array_07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Array_08/Array_08.iml" filepath="$PROJECT_DIR$/Array/Array_08/Array_08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Array_09/Array_09.iml" filepath="$PROJECT_DIR$/Array/Array_09/Array_09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Array_10/Array_10.iml" filepath="$PROJECT_DIR$/Array/Array_10/Array_10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Array_10_1/Array_10_1.iml" filepath="$PROJECT_DIR$/Array/Array_10_1/Array_10_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Array_12/Array_12.iml" filepath="$PROJECT_DIR$/Array/Array_12/Array_12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/BT01/BT01.iml" filepath="$PROJECT_DIR$/OOP/BT01/BT01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loop/BT02/BT02.iml" filepath="$PROJECT_DIR$/Loop/BT02/BT02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loop/BT03/BT03.iml" filepath="$PROJECT_DIR$/Loop/BT03/BT03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic/BT04/BT04.iml" filepath="$PROJECT_DIR$/Basic/BT04/BT04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loop/BT05/BT05.iml" filepath="$PROJECT_DIR$/Loop/BT05/BT05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loop/BT06/BT06.iml" filepath="$PROJECT_DIR$/Loop/BT06/BT06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loop/BT07/BT07.iml" filepath="$PROJECT_DIR$/Loop/BT07/BT07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loop/BT08/BT08.iml" filepath="$PROJECT_DIR$/Loop/BT08/BT08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic/BT10/BT10.iml" filepath="$PROJECT_DIR$/Basic/BT10/BT10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic/BT11/BT11.iml" filepath="$PROJECT_DIR$/Basic/BT11/BT11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic/BT12/BT12.iml" filepath="$PROJECT_DIR$/Basic/BT12/BT12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic/BT13/BT13.iml" filepath="$PROJECT_DIR$/Basic/BT13/BT13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic/BT14/BT14.iml" filepath="$PROJECT_DIR$/Basic/BT14/BT14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic2/BT15/BT15.iml" filepath="$PROJECT_DIR$/basic2/BT15/BT15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic/BT5/BT5.iml" filepath="$PROJECT_DIR$/Basic/BT5/BT5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic/BT6/BT6.iml" filepath="$PROJECT_DIR$/Basic/BT6/BT6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic/BT7/BT7.iml" filepath="$PROJECT_DIR$/Basic/BT7/BT7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic/BT8/BT8.iml" filepath="$PROJECT_DIR$/Basic/BT8/BT8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic/BT9/BT9.iml" filepath="$PROJECT_DIR$/Basic/BT9/BT9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/When/BT_01/BT_01.iml" filepath="$PROJECT_DIR$/When/BT_01/BT_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/When/BT_02/BT_02.iml" filepath="$PROJECT_DIR$/When/BT_02/BT_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/When/BT_03/BT_03.iml" filepath="$PROJECT_DIR$/When/BT_03/BT_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BookStoreManager/BookManager/BookManager.iml" filepath="$PROJECT_DIR$/BookStoreManager/BookManager/BookManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic/Bt02/Bt02.iml" filepath="$PROJECT_DIR$/Basic/Bt02/Bt02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic/Bt03/Bt03.iml" filepath="$PROJECT_DIR$/Basic/Bt03/Bt03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ToDoTask/DoTask/DoTask.iml" filepath="$PROJECT_DIR$/ToDoTask/DoTask/DoTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/KT02/KT02.iml" filepath="$PROJECT_DIR$/OOP/KT02/KT02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loop/KT04/KT04.iml" filepath="$PROJECT_DIR$/Loop/KT04/KT04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Kotlin.iml" filepath="$PROJECT_DIR$/.idea/Kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/List/List_01/List_01.iml" filepath="$PROJECT_DIR$/List/List_01/List_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/List/List_02/List_02.iml" filepath="$PROJECT_DIR$/List/List_02/List_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/List/List_03/List_03.iml" filepath="$PROJECT_DIR$/List/List_03/List_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/List/List_04/List_04.iml" filepath="$PROJECT_DIR$/List/List_04/List_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/List/List_05/List_05.iml" filepath="$PROJECT_DIR$/List/List_05/List_05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/List/List_06/List_06.iml" filepath="$PROJECT_DIR$/List/List_06/List_06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/List/List_07/List_07.iml" filepath="$PROJECT_DIR$/List/List_07/List_07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MiniGame/MiniGame.iml" filepath="$PROJECT_DIR$/MiniGame/MiniGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/OOP_01/OOP_01.iml" filepath="$PROJECT_DIR$/OOP/OOP_01/OOP_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/OOP_02/OOP_02.iml" filepath="$PROJECT_DIR$/OOP/OOP_02/OOP_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String_01/String_01.iml" filepath="$PROJECT_DIR$/String/String_01/String_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String_02/String_02.iml" filepath="$PROJECT_DIR$/String/String_02/String_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String_03/String_03.iml" filepath="$PROJECT_DIR$/String/String_03/String_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String_04/String_04.iml" filepath="$PROJECT_DIR$/String/String_04/String_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String_05/String_05.iml" filepath="$PROJECT_DIR$/String/String_05/String_05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String_06/String_06.iml" filepath="$PROJECT_DIR$/String/String_06/String_06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String_07/String_07.iml" filepath="$PROJECT_DIR$/String/String_07/String_07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String_08/String_08.iml" filepath="$PROJECT_DIR$/String/String_08/String_08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic/bt01/bt01.iml" filepath="$PROJECT_DIR$/Basic/bt01/bt01.iml" />
+    </modules>
+  </component>
+</project>
